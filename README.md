@@ -1,4 +1,4 @@
 # docker-install
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/Igor-creato/docker-install/main/docker-install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/Igor-creato/docker-install/main/install-docker.sh)
 ```
